@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Employee_Tracker</h1>
-https://github.com/Brookethorson/employee_tracker/blob/main/README.md
+https://github.com/Brookethorson/employee_tracker
 
 
 ## Description
@@ -32,8 +32,9 @@ The purpose of this project is to build a command-line application to manage a c
     THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 
 ## Application
-![Walkthrough Demo]()
-See _____ for full video.
+![Snipit of Walkthrough Demo]()
+See the Demo folder and download for full video: https://github.com/Brookethorson/employee_tracker/tree/main/Demo
+
 
 
 ## Installation
